@@ -11,7 +11,7 @@ out/
 .settings
 .springBeans
 .sts4-cache
-hw_primitives.iml
+*.iml
 
 bin/
 !**/src/main/**/bin/
